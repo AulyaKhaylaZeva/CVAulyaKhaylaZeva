@@ -8,7 +8,7 @@
 <body>
     <div class="container">
         <header>
-            <img src="image/https://github.com/AulyaKhaylaZeva/CVAulyaKhaylaZeva/blob/main/CV%20Aulya%20Khayla%20Zeva/image/1003e7aa-5ddd-44f9-9d48-90ba9427d39a.jpg" alt="Profile Picture" class="profile-pic">
+            <img src="image/https://github.com/AulyaKhaylaZeva/image/1003e7aa-5ddd-44f9-9d48-90ba9427d39a.jpg" alt="Profile Picture" class="profile-pic">
             <h1>Aulya Khayla Zeva</h1>
             <p>Mahasiswa</p>
             <IMG src>
